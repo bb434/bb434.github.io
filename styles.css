@@ -41,12 +41,16 @@ nav li {
 	font-weight: bold;
 }
 
+#logo {
+	text-align: center;
+}
+
 #logo img {
 	text-align: center;
-	padding-top: 175px;
+	padding-top: 200px;
 	padding-bottom: 20px;
 	display: block;
-	width: 150px;
+	width: 300px;
 	height: auto;
 }
 
