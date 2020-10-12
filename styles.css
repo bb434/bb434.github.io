@@ -42,15 +42,15 @@ nav li {
 	padding-top: 175px;
 	padding-bottom: 20px;
 	display: block;
-	width: 30%;
-	height: 30%;
+	width: 150px;
+	height: auto;
 }
 
-#search-bar {
+#search {
 	text-align: center;
 }
 
-#search-bar form{
+#search-bar{
 	width: 500px;
 	padding: 10px;
 }
