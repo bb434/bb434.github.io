@@ -47,7 +47,7 @@ nav li {
 
 #logo {
 	text-align: center;
-	box-shadow: 1px 1px 5px 1px #000000;
+	width: 100%;
 }
 
 #logo img {
@@ -57,7 +57,6 @@ nav li {
 	display: block;
 	width: 200px;
 	height: auto;
-	box-shadow: 1px 1px 5px 1px #000000;
 }
 
 #search {
