@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Arial', sans-serif;
+}
+
+ul {
+	list-style: none;
+}
+
+nav {
+	display: inline-block;
+	padding: 7px;
+}
+
+.nav-default {
+	color: #333333;
+}
+
+.nav-default:hover {
+	text-decoration: underline;
+}
+
+#left-nav {
+	float: left;
+}
+
+#right-nav {
+	float: right;
+}
+
+#nav-sign-in {
+	color: #ffffff;
+	background: #0066ff;
+	margin-right: 20px;
+	border-radius: 2px;
+	font-weight: bold;
+}
+	
