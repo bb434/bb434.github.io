@@ -41,12 +41,14 @@ nav li {
 	font-weight: bold;
 }
 
+#nav-sign-in:hover {
+	box-shadow: 1px 1px 5px 1px #000000;
+
 #logo {
 	text-align: center;
 }
 
 #logo img {
-	text-align: center;
 	padding-top: 200px;
 	padding-bottom: 20px;
 	display: block;
